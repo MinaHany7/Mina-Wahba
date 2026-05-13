@@ -1,45 +1,134 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Mina Hany Wahba</h1>
+<h3 align="center">Data Analyst | Mathematics Student | Business Intelligence Enthusiast</h3>
 
-<br />
+<p align="center">
+  <a href="https://eg.linkedin.com/in/mina-hany-mahrous">
+    <img src="https://img.shields.io/badge/LinkedIn-Mina%20Hany-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+  <a href="mailto:minahani186@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 
-**About me**
+  <a href="https://github.com/MinaHany7">
+    <img src="https://img.shields.io/badge/GitHub-MinaHany7-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+# 🚀 About Me
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+🎓 Mathematics student at Mansoura University  
+📊 Passionate about Data Analysis, Dashboards & Business Intelligence  
+💼 Data & Operations Assistant at Tarek Pharmacy  
+📚 Currently studying Data Analysis Diploma at Route Academy  
+⚡ Turning raw data into actionable business insights  
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+# 💼 Experience
 
+## 🏥 Data & Operations Assistant — Tarek Pharmacy
+📍 El Mansoura, Egypt | Oct 2024 – Present
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- Managed inventory database of **500+ pharmaceutical SKUs**
+- Built Excel-based reconciliation tools reducing manual errors by **30%**
+- Worked with ERP systems and operational reporting
+- Improved stock tracking and workflow efficiency
 
-#### Top Repositories
+---
 
+# 📊 Featured Project
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+## ✈️ Airline Booking Behavior Analysis
 
-<br />
-<br />
+🔗 Project Files:  
+👉 https://drive.google.com/drive/folders/1dBVi9weIvx-kTiANj7zGwg05aK8CXbiH
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+### Project Highlights
+- Cleaned and analyzed **50,000+ booking records**
+- Identified peak booking periods & conversion trends
+- Built an interactive dashboard for KPI tracking
+- Generated business recommendations using data insights
+
+---
+
+# 🛠️ Skills & Tools
+
+### 📈 Data Analysis
+- Advanced Excel
+- Power Query
+- SQL
+- Data Cleaning
+- Statistical Analysis
+- KPI Development
+
+### 📊 Visualization
+- Power BI
+- Tableau
+- Interactive Dashboards
+- Data Storytelling
+
+### 🗄️ Systems & Databases
+- ERP Systems
+- Database Management
+- Microsoft Office Suite
+- Google Workspace
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" width="45" height="45"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- SQL Server
+- DAX
+- Power BI
+- Tableau
+- Python for Data Analysis
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinaHany7&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaHany7&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email: minahani186@gmail.com  
+
+💼 LinkedIn:  
+https://eg.linkedin.com/in/mina-hany-mahrous
+
+💻 GitHub:  
+https://github.com/MinaHany7
+
+📂 Portfolio & Projects:  
+https://github.com/MinaHany7/Mina-Wahba-Portfolio.git
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy combining mathematics, analytics, and visualization to solve real-world business problems 📊
